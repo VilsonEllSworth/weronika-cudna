@@ -1,0 +1,182 @@
+<!doctype html>
+<html lang="pl">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Weronika Cudna</title>
+    <meta name="description" content="Portfolio Weroniki Cudnej: tkanina, ubior, obiekt, obraz.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/styles.css">
+  </head>
+  <body>
+    <header class="site-header" data-header>
+      <a class="brand" href="#top" aria-label="Weronika Cudna, strona glowna">Weronika Cudna</a>
+      <nav class="nav" aria-label="Glowne">
+        <a href="#portfolio">Portfolio</a>
+        <a href="#bio">O mnie</a>
+        <a href="#contact">Kontakt</a>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="intro" aria-labelledby="intro-title">
+        <div class="intro-pattern" aria-hidden="true">
+          <img class="intro-pattern-main" src="assets/images/tkanina-drukowana.jpg" alt="">
+          <img class="intro-pattern-secondary" src="assets/images/hero-jacquard.jpg" alt="">
+        </div>
+        <div class="intro-copy">
+          <p class="eyebrow">portfolio</p>
+          <h1 id="intro-title">tkanina / ubior / obiekt / obraz</h1>
+          <p>Wybrane prace rozwijane wokol materialu, ciala, faktury i powierzchni.</p>
+          <a class="intro-link" href="#portfolio">zobacz prace</a>
+        </div>
+      </section>
+
+      <section class="project-index" aria-label="Kategorie prac">
+        <a href="#portfolio" data-filter-link="tkanina">Tkanina</a>
+        <a href="#portfolio" data-filter-link="ubior">Ubior</a>
+        <a href="#portfolio" data-filter-link="bizuteria">Bizuteria</a>
+        <a href="#portfolio" data-filter-link="malarstwo">Malarstwo</a>
+        <a href="#portfolio" data-filter-link="dyplom">Dyplomy</a>
+        <a href="#portfolio" data-filter-link="wspolprace">Wspolprace</a>
+      </section>
+
+      <section class="section" id="portfolio" aria-labelledby="portfolio-title">
+        <div class="section-heading">
+          <p class="eyebrow">wybrane prace</p>
+          <h2 id="portfolio-title">Portfolio</h2>
+        </div>
+
+        <div class="filters" aria-label="Filtrowanie portfolio">
+          <button class="filter is-active" type="button" data-filter="all">Wszystko</button>
+          <button class="filter" type="button" data-filter="tkanina">Tkanina</button>
+          <button class="filter" type="button" data-filter="ubior">Ubior</button>
+          <button class="filter" type="button" data-filter="bizuteria">Bizuteria</button>
+          <button class="filter" type="button" data-filter="malarstwo">Malarstwo</button>
+          <button class="filter" type="button" data-filter="dyplom">Dyplomy</button>
+          <button class="filter" type="button" data-filter="wspolprace">Wspolprace</button>
+        </div>
+
+        <div class="work-grid">
+          <article class="work-card is-wide" data-category="tkanina">
+            <button type="button" data-full="assets/images/hero-jacquard.jpg" data-title="Tabu seksualnosci" data-meta="tkanina zakardowa, 2022">
+              <img src="assets/images/hero-jacquard.jpg" alt="Detal jasnej tkaniny zakardowej">
+              <span>
+                <strong>Tabu seksualnosci</strong>
+                <small>tkanina zakardowa, 2022</small>
+              </span>
+            </button>
+          </article>
+
+          <article class="work-card" data-category="tkanina">
+            <button type="button" data-full="assets/images/tkanina-drukowana.jpg" data-title="Tkanina drukowana" data-meta="raport / powierzchnia">
+              <img src="assets/images/tkanina-drukowana.jpg" alt="Kolorowa tkanina drukowana">
+              <span>
+                <strong>Tkanina drukowana</strong>
+                <small>raport / powierzchnia</small>
+              </span>
+            </button>
+          </article>
+
+          <article class="work-card" data-category="ubior">
+            <button type="button" data-full="assets/images/firedress-01.jpg" data-title="Firedress" data-meta="ubior, dokumentacja">
+              <img src="assets/images/firedress-01.jpg" alt="Sylwetka w czarnej transparentnej formie ubioru">
+              <span>
+                <strong>Firedress</strong>
+                <small>ubior, dokumentacja</small>
+              </span>
+            </button>
+          </article>
+
+          <article class="work-card is-tall" data-category="ubior">
+            <button type="button" data-full="assets/images/firedress-02.jpg" data-title="Firedress" data-meta="ubior, detal sylwetki">
+              <img src="assets/images/firedress-02.jpg" alt="Czarna forma ubioru na tle niebieskiej sciany">
+              <span>
+                <strong>Firedress</strong>
+                <small>ubior, detal sylwetki</small>
+              </span>
+            </button>
+          </article>
+
+          <article class="work-card" data-category="bizuteria">
+            <button type="button" data-full="assets/images/bizuteria-01.jpg" data-title="Bizuteria" data-meta="obiekt / detal">
+              <img src="assets/images/bizuteria-01.jpg" alt="Dokumentacja autorskiej bizuterii">
+              <span>
+                <strong>Bizuteria</strong>
+                <small>obiekt / detal</small>
+              </span>
+            </button>
+          </article>
+
+          <article class="work-card" data-category="malarstwo">
+            <button type="button" data-full="assets/images/malarstwo-01.jpg" data-title="Malarstwo" data-meta="olej, akryl">
+              <img src="assets/images/malarstwo-01.jpg" alt="Obraz malarski">
+              <span>
+                <strong>Malarstwo</strong>
+                <small>olej, akryl</small>
+              </span>
+            </button>
+          </article>
+
+          <article class="work-card" data-category="dyplom">
+            <button type="button" data-full="assets/images/dyplom-magisterski-01.jpg" data-title="Dyplom magisterski" data-meta="dokumentacja projektu">
+              <img src="assets/images/dyplom-magisterski-01.jpg" alt="Dokumentacja dyplomu magisterskiego">
+              <span>
+                <strong>Dyplom magisterski</strong>
+                <small>dokumentacja projektu</small>
+              </span>
+            </button>
+          </article>
+
+          <article class="work-card is-wide" data-category="wspolprace">
+            <button type="button" data-full="assets/images/wystawa-01.jpg" data-title="Wystawy i wspolprace" data-meta="dokumentacja">
+              <img src="assets/images/wystawa-01.jpg" alt="Dokumentacja wystawy lub wspolpracy">
+              <span>
+                <strong>Wystawy i wspolprace</strong>
+                <small>dokumentacja</small>
+              </span>
+            </button>
+          </article>
+        </div>
+      </section>
+
+      <section class="section about" id="bio" aria-labelledby="bio-title">
+        <div class="section-heading">
+          <p class="eyebrow">bio</p>
+          <h2 id="bio-title">O mnie</h2>
+        </div>
+        <div class="about-text">
+          <p>Weronika Cudna pracuje z tkanina, ubiorem, obiektem i obrazem. W projektach laczy dzialania tekstylne, malarskie i przestrzenne, traktujac material jako powierzchnie, zapis gestu i nosnik znaczen.</p>
+          <p>Portfolio obejmuje prace z obszaru tkaniny zakardowej i drukowanej, projektowania ubioru, bizuterii, malarstwa oraz dokumentacje projektow dyplomowych i wspolprac.</p>
+        </div>
+      </section>
+
+      <section class="section contact" id="contact" aria-labelledby="contact-title">
+        <div class="section-heading">
+          <p class="eyebrow">kontakt</p>
+          <h2 id="contact-title">Kontakt</h2>
+        </div>
+        <div class="contact-content">
+          <p>Zapraszam do kontaktu w sprawie wspolprac artystycznych, projektowych, wystaw i realizacji indywidualnych.</p>
+          <a href="mailto:kontakt@weronikacudna.pl">kontakt@weronikacudna.pl</a>
+          <span>Instagram / portfolio link do uzupelnienia</span>
+        </div>
+      </section>
+    </main>
+
+    <div class="lightbox" data-lightbox hidden>
+      <button class="lightbox-close" type="button" data-close aria-label="Zamknij podglad">Zamknij</button>
+      <figure>
+        <img src="" alt="" data-lightbox-image>
+        <figcaption>
+          <strong data-lightbox-title></strong>
+          <span data-lightbox-meta></span>
+        </figcaption>
+      </figure>
+    </div>
+
+    <script src="assets/main.js"></script>
+  </body>
+</html>
