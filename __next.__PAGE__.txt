@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
+2:I[6434,["286","static/chunks/286-d3cb7de39f9513d5.js","974","static/chunks/app/page-a2121a45802c8833.js"],"ImmersiveHero"]
 3:I[484,[],"OutletBoundary"]
 4:"$Sreact.suspense"
-2:[["$","source",null,{"media":"(min-width: 769px)","srcSet":"/media/maraks-pled-hero-landscape.png","width":"1512","height":"1099"}],["$","img",null,{"className":"hero-pattern","src":"/media/maraks-pled-hero.png","width":"1099","height":"1512","alt":"","decoding":"async","fetchPriority":"high","loading":"eager"}]]
-0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"hero hero-root","children":[["$","div",null,{"className":"hero-pattern-wrap","aria-hidden":"true","children":["$","picture",null,{"className":"hero-pattern-picture","children":"$2"}]}],["$","p",null,{"className":"hero-overlay-text","children":"Tkanina / obiekt / struktura"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ilrcMeO9JKtoNu1GdVY9C"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"kVeTkbHob8MJVk7DaleEo"}
 5:null

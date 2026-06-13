@@ -1,8 +1,8 @@
-:HL["/_next/static/css/fe5507660222fb06.css","style"]
+:HL["/_next/static/css/7ea7a63539da9c2f.css","style"]
 :HL["/media/pdf/p09-01.jpg","image"]
 :HL["/media/pdf/p11-01.jpg","image"]
 :HL["/media/pdf/p12-03.jpg","image"]
 :HL["/media/pdf/p14-01.jpg","image"]
 :HL["/media/pdf/p18-04.jpg","image"]
 :HL["/media/pdf/p08-01.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"prace","param":null,"prefetchHints":0,"slots":{"children":{"name":"section","param":{"type":"d","key":"dyplom-magisterski","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"subcategory","param":{"type":"d","key":"info","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"ilrcMeO9JKtoNu1GdVY9C"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"prace","param":null,"prefetchHints":0,"slots":{"children":{"name":"section","param":{"type":"d","key":"dyplom-magisterski","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"subcategory","param":{"type":"d","key":"info","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"kVeTkbHob8MJVk7DaleEo"}
