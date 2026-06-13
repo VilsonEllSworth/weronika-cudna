@@ -3,5 +3,5 @@
 3:I[6328,["286","static/chunks/286-d3cb7de39f9513d5.js","500","static/chunks/500-e9eb3df545e56136.js","177","static/chunks/app/layout-6d0fa166e75cd7c3.js"],"RouteMotion"]
 4:I[7121,[],""]
 5:I[4581,[],""]
-:HL["/_next/static/css/d256dc7448386c2b.css","style"]
-0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d256dc7448386c2b.css","precedence":"next"}]],["$","html",null,{"lang":"pl","children":["$","body",null,{"className":"sans antialiased","children":[["$","$L2",null,{}],["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]}],["$","footer",null,{"className":"site-footer","children":["$","p",null,{"children":"© 2026 Weronika Cudna / Maraks. All rights reserved."}]}]]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"oYdoYuLwi1fnkZzqfqYw5"}
+:HL["/_next/static/css/fe5507660222fb06.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/fe5507660222fb06.css","precedence":"next"}]],["$","html",null,{"lang":"pl","children":["$","body",null,{"className":"sans antialiased","children":[["$","$L2",null,{}],["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]}],["$","footer",null,{"className":"site-footer","children":["$","p",null,{"children":"© 2026 Weronika Cudna / Maraks. All rights reserved."}]}]]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ilrcMeO9JKtoNu1GdVY9C"}
