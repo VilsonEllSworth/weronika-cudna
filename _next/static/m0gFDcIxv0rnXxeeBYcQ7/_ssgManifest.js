@@ -1,1 +1,0 @@
-self.__SSG_MANIFEST=new Set(["\u002Fprace\u002F[section]","\u002Fprace\u002F[section]\u002F[subcategory]","\u002Fprace\u002F[section]\u002F[subcategory]\u002F[work]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
