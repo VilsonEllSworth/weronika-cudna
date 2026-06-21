@@ -1,2 +1,2 @@
-:HL["/_next/static/css/0317fb3071165ab8.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"prace","param":null,"prefetchHints":0,"slots":{"children":{"name":"section","param":{"type":"d","key":"dyplom-magisterski","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"8sWkFwIgT4_A-5rACGI7r"}
+:HL["/_next/static/css/556774167cf05719.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"prace","param":null,"prefetchHints":0,"slots":{"children":{"name":"section","param":{"type":"d","key":"dyplom-magisterski","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"gR7yxHLHakH2l07cL2v9E"}
