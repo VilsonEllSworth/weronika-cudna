@@ -1,3 +1,3 @@
-:HL["/_next/static/css/9dc49ce1509f1af6.css","style"]
+:HL["/_next/static/css/0ca79b1fd814360b.css","style"]
 :HL["/media/maraks-pled-hero-640.avif","image",{"fetchPriority":"high","imageSrcSet":"/media/maraks-pled-hero-640.avif 640w, /media/maraks-pled-hero-960.avif 960w, /media/maraks-pled-hero-1099.avif 1099w, /media/maraks-pled-hero-landscape-1024.avif 1024w, /media/maraks-pled-hero-landscape-1512.avif 1512w","imageSizes":"(min-width: 769px) min(100vw, calc((100svh - 158px) * 1.376)), 100vw"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"K4-4ImIv6tMC2cpDZ17mC"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"RVnUnOWQ0JkXIpDxhEgKU"}
