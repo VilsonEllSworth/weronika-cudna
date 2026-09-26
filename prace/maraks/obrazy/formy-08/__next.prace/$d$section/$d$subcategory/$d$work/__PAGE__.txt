@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[1664,["829","static/chunks/829-560de93a4984fff1.js","500","static/chunks/500-e9eb3df545e56136.js","437","static/chunks/437-285d16e218f1ab6c.js","712","static/chunks/712-aa8af54dbc507322.js","391","static/chunks/app/prace/%5Bsection%5D/%5Bsubcategory%5D/%5Bwork%5D/page-690007ca36ee0592.js"],"ArtworkView"]
+3:I[484,[],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"work":{"slug":"formy-08","title":"Formy 0.8","section":"maraks","subcategory":"obrazy","discipline":"malarstwo","year":"2026","dimensions":"70 x 70 cm","medium":"akryl na płótnie","image":"/media/maraks/obrazy/thumbs/formy-07.jpg","detailImages":["/media/maraks/obrazy/1000023796.jpg"],"description":"Obraz z projektu Maraks, wykonany akrylem na płótnie."},"breadcrumbs":[{"label":"Prace","href":"/prace"},{"label":"Maraks","href":"/prace/maraks"},{"label":"Obrazy","href":"/prace/maraks/obrazy"},{"label":"Formy 0.8"}]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Qu_OVXEq1xPKkBJ1k3CvY"}
+5:null
